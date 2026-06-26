@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-801827bb.zappy5.app
+https://example.com
 ברוכים הבאים לחנות הסקווישים החמודה ברשת! מגוון ענק של סקווישים מחימר, נידו, אורביז ועוד במחירים שווים. הצטרפו לחוויית משחק רכה וצבעונית עכשיו!
 
 ### שירותים
-https://-801827bb.zappy5.app/services
+https://example.com/services
 שירותי משלוח, אריזות מתנה והתאמה אישית לכל חובב סקווישים. נדאג שה-ice cream lorees האהוב יגיע אליכם במצב מושלם. גלו איך אנחנו מפנקים!
 
 ### אודות
-https://-801827bb.zappy5.app/about
+https://example.com/about
 הסיפור של עופרי והאהבה לסקווישים שהפכה לחנות חלומותית. גלו את החזון, הערכים והתשוקה שמאחורי כל מוצר, מ-eden tal water ועד נידו. בואו להתאהב!
 
 ### צור קשר
-https://-801827bb.zappy5.app/contact
+https://example.com/contact
 יש שאלה על air forice one או מתלבטים בין ice cream lorees לנידו? צרו קשר בקלות! אנחנו כאן כדי לעזור לכם לבחור את הסקוויש החלומי שלכם. פנו עכשיו!
 
 ### Products
-https://-801827bb.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - הסקווישים של עופרי
 
 ### Cart
-https://-801827bb.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-801827bb.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-801827bb.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-801827bb.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-801827bb.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-801827bb.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - הסקווישים של עופרי
 
 ### Category
-https://-801827bb.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - הסקווישים של עופרי
 
 ### תודה שפניתם אלינו
-https://-801827bb.zappy5.app/thank-you
+https://example.com/thank-you
 הסקווישים של עופרי - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-801827bb.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-801827bb.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-801827bb.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ E-commerce / Toys & Collectibles
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-801827bb.zappy5.app/sitemap.xml
-- Robots: https://-801827bb.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-801827bb.zappy5.app/llms-full.txt
-- Products (JSON): https://-801827bb.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-801827bb.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
